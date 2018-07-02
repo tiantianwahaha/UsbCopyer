@@ -9,4 +9,4 @@
 **usb.exe# usb_window.py**  对应的可以直接运行的exe文件<br>
 
 ## 图示
-[usb.exe界面](https://github.com/tiantianwahaha/UsbCopyer/blob/master/example.png)  
+![usb.exe界面](https://github.com/tiantianwahaha/UsbCopyer/blob/master/example.png)  
