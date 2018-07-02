@@ -1,12 +1,12 @@
-# UsbCopyer: windows╣Гдт╡ЕиоUелвт╤╞╦╢жфUелнд╪Ч  
+# UsbCopyer: windowsГ■╣Х└▒Ф▐▓Д╦┼UГ⌡≤Х┤╙Е┼╗Е╓█Е┬╤UГ⌡≤Ф√┤Д╩╤  
 
-╩Ысзpython╣д╪Р╣╔й╣ож
-пХр╙втппиХжцusb_path╨мsave_path
+Е÷╨Д╨▌pythonГ └Г╝─Е█∙Е╝·Г▌╟<br>
+И°─Х╕│Х┤╙Х║▄Х╝╬Г╫╝usb_pathЕ▓▄save_path
 
-##нд╪Чап╠М
-usb.py н╙╪Р╣╔╧╕дэй╣ож
-usb_window.py ╪сиоак╢╟©з
-usb.exe ©иртж╠╫сткпп╣дexeнд╪Ч
+## Ф√┤Д╩╤Е┬≈Х║╗
+**usb.py**  Д╦╨Г╝─Е█∙Е┼÷Х┐╫Е╝·Г▌╟<br>
+**usb_window.py**  Е┼═Д╦┼Д╨├Г╙≈Е▐ё<br>
+**usb.exe# usb_window.py**  Е╞╧Е╨■Г └Е▐╞Д╩╔Г⌡╢Ф▌╔Х©░Х║▄Г └exeФ√┤Д╩╤<br>
 
-##м╪й╬
-[usb.exe╫ГцФ]()  
+## Е⌡╬Г╓╨
+[usb.exeГ∙▄И²╒](https://github.com/tiantianwahaha/UsbCopyer/blob/master/example.png)  
